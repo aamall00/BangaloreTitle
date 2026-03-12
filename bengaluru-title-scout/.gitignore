@@ -1,0 +1,17 @@
+node_modules/
+dist/
+dist-electron/
+.vite/
+
+backend/chroma_db/
+backend/uploads/
+backend/title_scout.db
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.env
+backend/*.egg-info/
+
+*.log
+.DS_Store
+Thumbs.db
